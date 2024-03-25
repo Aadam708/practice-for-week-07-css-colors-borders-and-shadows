@@ -1,29 +1,49 @@
 .box1 {
   background-color: blueviolet;
+  border: solid;
+  border-width: 5px;
+  border-color: blue;
+  padding:10px;
+}
+h2{
+  opacity: 0.5;
 }
 
 .box2 {
   background-color: greenyellow;
+  border:2px solid ; border-radius: 5px;
+  padding:10px;
 }
 
 .text1 {
   background-color: blue;
+  color: #FFC300;
 }
 
 .text2 {
   background-color: burlywood;
+  color:rgb(235, 62, 71)
 }
 
 .box3 {
-  background-color: rgb(230, 230, 250);
+  background-color: rgb(230, 230, 250,0.6);
 }
 
 .box5 {
   background-color: lemonchiffon;
+  border:solid;
+  margin: 20px,8px;
+  color: teal;
+  border-radius:2px;
+  box-shadow: 20px   8px teal;
+  padding:20px 8px;
 }
 
 .box6 {
   background-color: papayawhip;
+  box-shadow: 10px 5px #800000;
+  text-shadow: 10px 2px blueviolet;
+
 }
 
 
